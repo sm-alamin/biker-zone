@@ -3,3 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+.banner{
+    background: rgba(231, 111, 81, 0.1);
+    border-radius: 5px;
+}
